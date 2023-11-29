@@ -3,7 +3,6 @@
 # matching method
 # The regular expression must match School
 
-# script.rb
 pattern = /School/
 
 # Check if an argument is provided
@@ -14,6 +13,6 @@ end
 
 input_string = ARGV[0]
 
-# Perform the regular expression match and output the result
+# Perform the regular expression match and output the concatenated result
 matches = input_string.scan(pattern)
-puts matches.join
+puts matches.join + matches.join
