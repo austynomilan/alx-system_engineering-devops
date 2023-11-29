@@ -14,12 +14,6 @@ end
 
 input_string = ARGV[0]
 
-# Perform the regular expression match
+# Perform the regular expression match and output the result
 matches = input_string.scan(pattern)
-
-# Output the result
-if matches.empty?
-  puts "No match found."
-else
-  puts "Matches found: #{matches.join(', ')}"
-end
+puts matches.join
