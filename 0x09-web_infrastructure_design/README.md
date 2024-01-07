@@ -11,4 +11,4 @@ This project is a collection of web infrastructure designs that could be impleme
 
 - Secured and monitored web infrastrucure [Datails](https://github.com/austynomilan/alx-system_engineering-devops/blob/master/0x09-web_infrastructure_design/2-secured_and_monitored_web_infrastructure.md)
 
-- Scaled up web infrastructure [Details]()
+- Scaled up web infrastructure [Details](https://github.com/austynomilan/alx-system_engineering-devops/blob/master/0x09-web_infrastructure_design/3-scale_up.md)
