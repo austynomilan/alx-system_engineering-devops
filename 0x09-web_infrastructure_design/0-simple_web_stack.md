@@ -1,0 +1,1 @@
+![Alt text](https://raw.githubusercontent.com/austynomilan/alx-system_engineering-devops/master/0x09-web_infrastructure_design/webstack1.webp)
